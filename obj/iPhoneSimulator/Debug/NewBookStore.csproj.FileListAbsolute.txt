@@ -1,0 +1,9 @@
+/Users/jb4/Projects/NewBookStore/NewBookStore/bin/iPhoneSimulator/Debug/NewBookStore.exe
+/Users/jb4/Projects/NewBookStore/NewBookStore/bin/iPhoneSimulator/Debug/NewBookStore.pdb
+/Users/jb4/Projects/NewBookStore/NewBookStore/obj/iPhoneSimulator/Debug/NewBookStore.csproj.CoreCompileInputs.cache
+/Users/jb4/Projects/NewBookStore/NewBookStore/obj/iPhoneSimulator/Debug/NewBookStore.exe
+/Users/jb4/Projects/NewBookStore/NewBookStore/obj/iPhoneSimulator/Debug/NewBookStore.pdb
+/Users/jb4/Projects/NewBookStore/NewBookStore/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/jb4/Projects/NewBookStore/NewBookStore/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-10.3.1/actool/_PartialAppManifest.items
+/Users/jb4/Projects/NewBookStore/NewBookStore/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/jb4/Projects/NewBookStore/NewBookStore/obj/iPhoneSimulator/Debug/device-builds/iphone8.2-10.3.1/optimized/
